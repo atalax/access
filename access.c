@@ -47,7 +47,7 @@ void print_usage()
 			"See man 2 access for more details.\n"
 			"\n"
 			"  -q, --quiet\t\t\tNo output, just the exit code\n"
-			"  -e, --effective\t\t\tUse the eacess syscall instead\n"
+			"  -e, --effective\t\tUse the eacess syscall instead\n"
 			"  -r, --read\t\t\tCheck whether the user can read\n"
 			"  -w, --write\t\t\tCheck whether the user can write\n"
 			"  -x, --execute\t\t\tCheck whether the user can execute\n"
